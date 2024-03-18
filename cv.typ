@@ -19,48 +19,79 @@
 
 #let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
 
-= Alex Chi
+= Zhonghan Wang
 
-skyzh\@cmu.edu |
-#link("https://github.com/skyzh")[github.com/skyzh] | #link("https://skyzh.dev")[skyzh.dev]
+wangzh\@ios.ac.cn |
+#link("https://github.com/yogurt-shadow")[github.com/yogurt-shadow] | #link("https://yogurt-shadow.github.io/")[https://yogurt-shadow.github.io/]
 
 == Education
 #chiline()
 
-#link("https://typst.app/")[*#lorem(2)*] #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(10)
+#link("https://typst.app/")[*Nankai University*] #h(1fr) 2017/08 -- 2021/06 \
+Bachelor in Electronic Engineering (EE) #h(1fr) Tianjin, China \
+- GPA: 89.17/100, 3.71/4.0 (Rank: 6/45)
 
-*#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(10)
+*Institute of Software, Chinese Academy of Sciences* #h(1fr) 2021/09 -- Present \
+Master in Computer Science (CS) #h(1fr) Beijing, China \
+- GPA: 3.7/4.0
 
-== Work Experience
+== Publications
 #chiline()
 
-*#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(20)
-- #lorem(30)
-- #lorem(40)
+*Efficient Local Search for Nonlinear Real Arithmetic* #h(1fr) VMCAI 2024, London \
+Code available: https://github.com/yogurt-shadow/LS_NRA \
+Presentation video: https://www.youtube.com/watch?v=CKGDRTXvKjk\
+- Introduce Local Search algorithm into SMT(NRA)
+- Design boundary structure to compute Local Search operation incrementally
+- Design Relaxation strategy for equalities constraints
+- Implement based on Z3, beat all mainstream SMT Solvers on QF_NRA satisfiability instances of SMT_LIB.
 
-*#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(20)
-- #lorem(30)
-- #lorem(40)
+== Competition Awards
+#chiline()
+
+*Z3 Plus Plus* #h(1fr) SMT-COMP 2022 \
+WebPage: https://z3-plus-plus.github.io/\
+Code: https://github.com/shaowei-cai-group/z3pp\
+- Implement sample-cell projection in Z3's Nlsat Solver
+- Implement feasible region checker to shortcut unsat instances
+- Wins two gold medals in SMT-COMP 2022 & 2023
 
 == Projects
 #chiline()
 
-*#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(20)
-- #lorem(30)
-- #lorem(40)
+*Dynamic Variable Order of Nlsat*\
+Code available: https://github.com/yogurt-shadow/z3-dnlsat\
+- Introduce VSIDS dynamic branching heuristic into Nlsat Solver
+- Fasten solving procedure both on satisfiable and unsatisfiable instances
 
-*#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(20)
-- #lorem(30)
-- #lorem(40)
+== Skills
+#chiline()
+*Isabelle/HOL*\
+Code available: https://github.com/yogurt-shadow/Isar_Exercise
+- Learn basic proof methods by *Concrete Semantics*
+- Self Solutions to practices in the book
+
+*VHDL*\
+Learned in Electronic Design Automatation Course (Bachelor)
+- Design basic digital circuits in Quartus II, like counter, adder, etc.
+
+== English Test
+#chiline()
+*Toefl*\
+Overall: 102 (Reading: 29, Listening: 25, Speaking: 22, Writing: 26)\
+*GRE* \
+Verbal: 159 Quantitative: 170 Writing: 3.5 
+
+== Code Skills
+#chiline()
+C/C++, Java, Python, Shell, HTML, JAVSCRIPT, CSS, SQL, VHDL etc.
+
+// == Internship
+// #chiline()
+
+// *Alibaba Group* #h(1fr) 2022/10 - 2023/06 \
+// 2019/09 -- 2020/06 \
+// - Designing Local Search Algorithn for end-to-end allocation problem
+// - Design new O
+
+
