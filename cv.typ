@@ -26,14 +26,15 @@ wangzh\@ios.ac.cn |
 
 == Education
 #chiline()
-
-#link("https://typst.app/")[*Nankai University*] #h(1fr) 2017/08 -- 2021/06 \
-Bachelor in Electronic Engineering (EE) #h(1fr) Tianjin, China \
-- GPA: 89.17/100, 3.71/4.0 (Rank: 6/45)
-
 *Institute of Software, Chinese Academy of Sciences* #h(1fr) 2021/09 -- Present \
-Master in Computer Science (CS) #h(1fr) Beijing, China \
-- GPA: 3.7/4.0
+Master of Engineering in Computer Science (CS), GPA 3.7/4.0 #h(1fr) Beijing, China\
+- Courses: Mathematical Logic and Theory of Programming, Formal Language and Automata Theory
+
+*Nankai University* #h(1fr) 2017/08 -- 2021/06 \
+Bachelor of Science in Electronic Engineering (EE) #h(1fr) Tianjin, China \
+- GPA: 89.17/100, 3.71/4.0 (Rank: 6/45)
+- Courses: Computer Principle, EDA Fundamental and Application, Analog Electronics Technology
+
 
 == Publications
 #chiline()
@@ -41,7 +42,7 @@ Master in Computer Science (CS) #h(1fr) Beijing, China \
 *Efficient Local Search for Nonlinear Real Arithmetic* #h(1fr) VMCAI 2024, London \
 Code available: https://github.com/yogurt-shadow/LS_NRA \
 Presentation video: https://www.youtube.com/watch?v=CKGDRTXvKjk\
-- Introduce Local Search algorithm into SMT(NRA)
+- Introduce Local Search algorithm into all classes of SMT(NRA)
 - Design boundary structure to compute Local Search operation incrementally
 - Design Relaxation strategy for equalities constraints
 - Implement based on Z3, beat all mainstream SMT Solvers on QF_NRA satisfiability instances of SMT_LIB.
@@ -68,8 +69,7 @@ Code available: https://github.com/yogurt-shadow/z3-dnlsat\
 #chiline()
 *Isabelle/HOL*\
 Code available: https://github.com/yogurt-shadow/Isar_Exercise
-- Learn basic proof methods by *Concrete Semantics*
-- Self Solutions to practices in the book
+- Self Solutions to practices in *Concrete Semantics*
 
 *VHDL*\
 Learned in Electronic Design Automatation Course (Bachelor)
